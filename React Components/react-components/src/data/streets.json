@@ -1,0 +1,161 @@
+[
+    {
+        "location": "Wyvern Ridgeway",
+        "homes": [
+            {
+                "type": "Co-op",
+                "description": "A co-op is similar in physical appearance and function as a condo and apartment, but the financial and legal arrangement is different.  With a co-op, each entity that buys in, doesn’t own a particular unit; instead they own a percentage of the building.  The owners are akin to shareholders of the entire property and technically lease their unit from the co-op.",
+                "imgUrl": "https://www.homestratosphere.com/wp-content/uploads/2018/02/co-op-building-hs.jpg?ezimgfmt=ng:webp/ngcb6",
+                "imgAlt": "Co-op photo",
+                "price": 555543322
+            },
+            {
+                "type": "Townhome",
+                "description": "A townhome is like a row home sharing one or two walls.  They are usually 2 or 3 stories tall.  Some rise even higher.  They are different than a condo in that owners of a townhome own both interior and exterior of the unit and are therefore financially responsible for maintenance of exteriors.  With condos, the exterior of the building is maintained by the regulatory body (HOA or Strata Council).",
+                "imgUrl": "https://www.homestratosphere.com/wp-content/uploads/2018/02/townhome-row-nyc-hs.jpg?ezimgfmt=ng:webp/ngcb6",
+                "imgAlt": "Townhome photo",
+                "price": 765445678
+            }
+        ]
+    },
+    {
+        "location": "Lawn By-Pass",
+        "homes": [
+            {
+                "type": "Single family (detached)",
+                "description": "t’s a home that is not attached to another home in anyway.  It sites on its own property and is completely separate from other houses.  Most detached single family homes are located in suburbs throughout North America.",
+                "imgUrl": "https://www.homestratosphere.com/wp-content/uploads/2018/02/single-family-detached-home.jpg?ezimgfmt=ng:webp/ngcb6",
+                "imgAlt": "Single family (detached) photo",
+                "price": 123232
+            },
+            {
+                "type": "Condominium",
+                "description": "A condominium is a home among many within one building or series of buildings on a piece of land.  Each owner has title to the unit.  The building is governed by an elected body (HOA in the United States / Strata Council in Canada) who makes decisions on behalf of all unit owners and owns the communal areas and land.  They make decisions pertaining to maintenance, the grounds, regulations, etc.",
+                "imgUrl": "https://www.homestratosphere.com/wp-content/uploads/2018/02/condominium-building.jpg?ezimgfmt=ng:webp/ngcb6",
+                "imgAlt": "Condominium photo",
+                "price": 3434454
+            },
+            {
+                "type": "Apartment",
+                "description": "An apartment is a group of housing units in one building all owned by one entity.  In other words, all the units are owned by one entity.  The units are then rented out to tenants.  This is the key difference between a condo and an apartment.  With a condo, individual entities (i.e. person or corporation) own the units, whereas with apartments, all the units in the building are owned by one entity.",
+                "imgUrl": "https://www.homestratosphere.com/wp-content/uploads/2018/02/apartment-building-hs.jpg?ezimgfmt=ng:webp/ngcb6",
+                "imgAlt": "Apartment photo",
+                "price": 222233
+            },
+            {
+                "type": "Co-op",
+                "description": "A co-op is similar in physical appearance and function as a condo and apartment, but the financial and legal arrangement is different.  With a co-op, each entity that buys in, doesn’t own a particular unit; instead they own a percentage of the building.  The owners are akin to shareholders of the entire property and technically lease their unit from the co-op.",
+                "imgUrl": "https://www.homestratosphere.com/wp-content/uploads/2018/02/co-op-building-hs.jpg?ezimgfmt=ng:webp/ngcb6",
+                "imgAlt": "Co-op photo",
+                "price": 555543322
+            },
+            {
+                "type": "Townhome",
+                "description": "A townhome is like a row home sharing one or two walls.  They are usually 2 or 3 stories tall.  Some rise even higher.  They are different than a condo in that owners of a townhome own both interior and exterior of the unit and are therefore financially responsible for maintenance of exteriors.  With condos, the exterior of the building is maintained by the regulatory body (HOA or Strata Council).",
+                "imgUrl": "https://www.homestratosphere.com/wp-content/uploads/2018/02/townhome-row-nyc-hs.jpg?ezimgfmt=ng:webp/ngcb6",
+                "imgAlt": "Townhome photo",
+                "price": 765445678
+            }
+        ]
+    },
+    {
+        "location": "The Chyne",
+        "homes": [
+            {
+                "type": "Single family (detached)",
+                "description": "t’s a home that is not attached to another home in anyway.  It sites on its own property and is completely separate from other houses.  Most detached single family homes are located in suburbs throughout North America.",
+                "imgUrl": "https://www.homestratosphere.com/wp-content/uploads/2018/02/single-family-detached-home.jpg?ezimgfmt=ng:webp/ngcb6",
+                "imgAlt": "Single family (detached) photo",
+                "price": 123232
+            },
+            {
+                "type": "Condominium",
+                "description": "A condominium is a home among many within one building or series of buildings on a piece of land.  Each owner has title to the unit.  The building is governed by an elected body (HOA in the United States / Strata Council in Canada) who makes decisions on behalf of all unit owners and owns the communal areas and land.  They make decisions pertaining to maintenance, the grounds, regulations, etc.",
+                "imgUrl": "https://www.homestratosphere.com/wp-content/uploads/2018/02/condominium-building.jpg?ezimgfmt=ng:webp/ngcb6",
+                "imgAlt": "Condominium photo",
+                "price": 3434454
+            }
+        ]
+    },
+    {
+        "location": "Glazebrook Road",
+        "homes": [
+            {
+                "type": "Apartment",
+                "description": "An apartment is a group of housing units in one building all owned by one entity.  In other words, all the units are owned by one entity.  The units are then rented out to tenants.  This is the key difference between a condo and an apartment.  With a condo, individual entities (i.e. person or corporation) own the units, whereas with apartments, all the units in the building are owned by one entity.",
+                "imgUrl": "https://www.homestratosphere.com/wp-content/uploads/2018/02/apartment-building-hs.jpg?ezimgfmt=ng:webp/ngcb6",
+                "imgAlt": "Apartment photo",
+                "price": 222233
+            },
+            {
+                "type": "Co-op",
+                "description": "A co-op is similar in physical appearance and function as a condo and apartment, but the financial and legal arrangement is different.  With a co-op, each entity that buys in, doesn’t own a particular unit; instead they own a percentage of the building.  The owners are akin to shareholders of the entire property and technically lease their unit from the co-op.",
+                "imgUrl": "https://www.homestratosphere.com/wp-content/uploads/2018/02/co-op-building-hs.jpg?ezimgfmt=ng:webp/ngcb6",
+                "imgAlt": "Co-op photo",
+                "price": 555543322
+            }
+        ]
+    },
+    {
+        "location": "Hyde Abbey Road",
+        "homes": [
+            {
+                "type": "Condominium",
+                "description": "A condominium is a home among many within one building or series of buildings on a piece of land.  Each owner has title to the unit.  The building is governed by an elected body (HOA in the United States / Strata Council in Canada) who makes decisions on behalf of all unit owners and owns the communal areas and land.  They make decisions pertaining to maintenance, the grounds, regulations, etc.",
+                "imgUrl": "https://www.homestratosphere.com/wp-content/uploads/2018/02/condominium-building.jpg?ezimgfmt=ng:webp/ngcb6",
+                "imgAlt": "Condominium photo",
+                "price": 3434454
+            },
+            {
+                "type": "Apartment",
+                "description": "An apartment is a group of housing units in one building all owned by one entity.  In other words, all the units are owned by one entity.  The units are then rented out to tenants.  This is the key difference between a condo and an apartment.  With a condo, individual entities (i.e. person or corporation) own the units, whereas with apartments, all the units in the building are owned by one entity.",
+                "imgUrl": "https://www.homestratosphere.com/wp-content/uploads/2018/02/apartment-building-hs.jpg?ezimgfmt=ng:webp/ngcb6",
+                "imgAlt": "Apartment photo",
+                "price": 222233
+            }
+        ]
+    },
+    {
+        "location": "Beaulieu Coppice",
+        "homes": [
+            {
+                "type": "Apartment",
+                "description": "An apartment is a group of housing units in one building all owned by one entity.  In other words, all the units are owned by one entity.  The units are then rented out to tenants.  This is the key difference between a condo and an apartment.  With a condo, individual entities (i.e. person or corporation) own the units, whereas with apartments, all the units in the building are owned by one entity.",
+                "imgUrl": "https://www.homestratosphere.com/wp-content/uploads/2018/02/apartment-building-hs.jpg?ezimgfmt=ng:webp/ngcb6",
+                "imgAlt": "Apartment photo",
+                "price": 222233
+            }
+        ]
+    },
+    {
+        "location": "Eagle Poplars",
+        "homes": [
+            {
+                "type": "Co-op",
+                "description": "A co-op is similar in physical appearance and function as a condo and apartment, but the financial and legal arrangement is different.  With a co-op, each entity that buys in, doesn’t own a particular unit; instead they own a percentage of the building.  The owners are akin to shareholders of the entire property and technically lease their unit from the co-op.",
+                "imgUrl": "https://www.homestratosphere.com/wp-content/uploads/2018/02/co-op-building-hs.jpg?ezimgfmt=ng:webp/ngcb6",
+                "imgAlt": "Co-op photo",
+                "price": 555543322
+            }
+        ]
+    },
+    {
+        "location": "Hoxton Close",
+        "homes": [
+            {
+                "type": "Co-op",
+                "description": "A co-op is similar in physical appearance and function as a condo and apartment, but the financial and legal arrangement is different.  With a co-op, each entity that buys in, doesn’t own a particular unit; instead they own a percentage of the building.  The owners are akin to shareholders of the entire property and technically lease their unit from the co-op.",
+                "imgUrl": "https://www.homestratosphere.com/wp-content/uploads/2018/02/co-op-building-hs.jpg?ezimgfmt=ng:webp/ngcb6",
+                "imgAlt": "Co-op photo",
+                "price": 555543322
+            },
+            {
+                "type": "Apartment",
+                "description": "An apartment is a group of housing units in one building all owned by one entity.  In other words, all the units are owned by one entity.  The units are then rented out to tenants.  This is the key difference between a condo and an apartment.  With a condo, individual entities (i.e. person or corporation) own the units, whereas with apartments, all the units in the building are owned by one entity.",
+                "imgUrl": "https://www.homestratosphere.com/wp-content/uploads/2018/02/apartment-building-hs.jpg?ezimgfmt=ng:webp/ngcb6",
+                "imgAlt": "Apartment photo",
+                "price": 222233
+            }
+        ]
+    }
+]
